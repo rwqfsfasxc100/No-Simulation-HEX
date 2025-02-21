@@ -1,0 +1,15 @@
+[package]
+
+id="hev.NoSimHex"
+name="No Simulation HEX"
+version="1.0.0"
+description="Removes the HEX overlay of the Minding Virtual Flight Service to make it easier to see what is going on"
+group="graphics"
+github_homepage="https://github.com/rwqfsfasxc100/No-Simulation-HEX"
+github_releases="https://github.com/rwqfsfasxc100/No-Simulation-HEX/releases"
+discord_thread="https://discord.com/channels/426287934870781952/1327143723959582772"
+nexus_page="https://www.nexusmods.com/dvringsofsaturn/mods/9"
+donations_page=""
+wiki_page=""
+custom_link=""
+custom_link_name=""
